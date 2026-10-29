@@ -3,6 +3,8 @@
 This repository contains the ROS 2 packages required to bring up and operate the **FastBot** robot.  
 All core drivers are included so the robot can be tested on real hardware.
 
+<img width="540" alt="fastbot" src="https://github.com/user-attachments/assets/8c4eca22-90e7-4ab9-8d3f-75fc520e49ba" />
+
 ---
 
 ## 📦 Included Packages
